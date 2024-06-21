@@ -1,6 +1,7 @@
 课堂作业：rag物流知识库
 部署：
 1.在linux主机上克隆
+
 git clone https://github.com/ggaosong/logistics.git
 
 2.添加 huggingface 镜像环境变量
