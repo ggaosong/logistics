@@ -1,0 +1,8 @@
+pytorch-lightning==1.9.2
+langchain_community
+langchain
+unstructured
+sentence-transformers
+cpm_kernels
+langchain-huggingface
+faiss-gpu
